@@ -2,7 +2,7 @@
 
 A minimal Chrome extension that replaces the New Tab page and shows how much of the current year has already passed.
 
-It’s designed to be quiet, not flashy — a small reminder you see before you drift into wasting time.
+It’s designed to be quiet, not flashy, a small reminder you see before you drift into wasting time.
 
 ## Why this exists
 Most new tabs lead to distractions.
@@ -30,6 +30,3 @@ No quotes. No productivity hacks. Just a number.
 - CSS
 - Vanilla JavaScript
 
-## Note
-This extension doesn’t try to motivate you.
-It just makes time visible — what you do with that is up to you.
