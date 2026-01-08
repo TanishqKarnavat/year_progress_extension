@@ -107,3 +107,29 @@ body {
     font-size: 5rem;
   }
 }
+.anti-scroll {
+  margin-top: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+..anti-scroll-text {
+  font-size: 0.9rem;
+  color: #888;
+}
+
+.anti-scroll-link {
+  font-size: 0.9rem;
+  color: #888;
+}
+
+
+.anti-scroll-link a {
+  color: #8ab4ff;
+  text-decoration: none;
+}
+
+.anti-scroll-link a:hover {
+  text-decoration: underline;
+}
