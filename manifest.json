@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Year Progress",
+  "version": "1.0.0",
+  "description": "Shows how much of the current year has passed",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  }
+}
